@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img  src="C:\Users\RUPESH\Desktop\Screenshot 2023-07-21 021826.png"/>
+<img  src="https://github.com/Rupesh-Gaur200/Rupesh-Gaur200/blob/master/Screenshot%202023-07-21%20021826.png"/>
 <!--
 **Rupesh-Gaur200/Rupesh-Gaur200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
